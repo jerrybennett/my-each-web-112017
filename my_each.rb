@@ -1,6 +1,6 @@
 def my_each(array)
   i = 0
-  if block_
+  if block_given?
 
   else
 
